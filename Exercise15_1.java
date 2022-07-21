@@ -13,11 +13,7 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 
-///Some of this code is from the Example7.java that was provided in the course materials under the project TestFX combined
-///with code from ControlCircle for the button.
 
-///That said, I thoroughly reviewed the code to ensure I understood everything, and I also had to augment a lot of it.
-///examples being, removing a card from the hand, resizing the table, changing the refresh button, updating pane title etc.
 
 public class Exercise15_1 extends Application {
 	// declaring the attributes to make them accessible later.
